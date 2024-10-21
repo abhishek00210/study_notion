@@ -15,10 +15,8 @@
 </table>
 </div>
 
-## Featured In
- <div>
-    <h2><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Flexed%20Biceps.png?raw=true" width="35" height="35" > Open Source Programs</h2>
-  </div>
+
+
   
 <table>
 
