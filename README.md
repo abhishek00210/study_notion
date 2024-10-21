@@ -10,15 +10,7 @@
 ![s1](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform/assets/133582566/749ced9e-269c-4ab4-aae5-f7ba098da825)
 
 <table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td><b>🌟 Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
-        </tr>
-     </thead>
+   
     <tbody>
          <tr>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
