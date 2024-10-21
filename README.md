@@ -11,15 +11,7 @@
 
 <table align="center">
    
-    <tbody>
-         <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Muskansahuincredible/StudyNotion-An-Online-Education-Platform?style=flat&color=critical&logo=github"/></td>
-        </tr>
-    </tbody>
+
 </table>
 </div>
 
